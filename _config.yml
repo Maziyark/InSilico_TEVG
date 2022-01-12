@@ -1,0 +1,16 @@
+#theme: jekyll-theme-slate
+
+title: In-silico Tissue Engineering
+#description: "This page includes the supplementary information and animations for the following paper: 
+#In Silico Tissue Engineering of Vascular Grafts: A coupled Agent-Based Finite Element Approach"
+
+markdown: GFM
+google_analytics: [UA-129308881-2]
+
+show_downloads: ["false"]
+
+[//]: # baseurl: "https://maziyark.github.io/InSilico_TEVG/"
+[//]: # url: "https://maziyark.github.io/InSilico_TEVG/" 
+[//]: # markdown: GFM
+plugins:
+  - jekyll-seo-tag

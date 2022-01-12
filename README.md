@@ -36,7 +36,7 @@ Over the past two decades, the increase in prevalence of cardiovascular diseases
     <a href="https://www.linkedin.com/in/maziyark/" target="_blank">LinkedIn</a> | 
     <a href="https://twitter.com/Maziyar_Ke" target="_blank">Twitter</a> | 
     <a href="https://www.researchgate.net/profile/Maziyar_Keshavarzian" target="_blank">ResearchGate</a> |
-    <a href="https://github.com/Maziyark/" target="_blank">GitHub</a>
+    <a href="https://github.com/MZYRKE/" target="_blank">GitHub</a>
   </font>
 </p>
 <p style="text-align: center;"> 

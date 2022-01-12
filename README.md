@@ -41,7 +41,7 @@ Over the past two decades, the increase in prevalence of cardiovascular diseases
 </p>
 <p style="text-align: center;"> 
   <font size="-1">
-    <a href="https://maziyark.github.io/MK/">Home</a>
+    <a href="https://maziyark.github.io/">Home</a>
   </font>
 </p>
 

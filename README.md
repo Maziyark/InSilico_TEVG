@@ -30,7 +30,7 @@ Over the past two decades, the increase in prevalence of cardiovascular diseases
 
 
 
-<p style="text-align: center;"> 
+<p align="center" style="text-align: center;"> 
   <font size="-1">
     <a href="https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
     <a href="https://www.linkedin.com/in/maziyark/" target="_blank">LinkedIn</a> | 
@@ -39,9 +39,10 @@ Over the past two decades, the increase in prevalence of cardiovascular diseases
     <a href="https://github.com/MZYRKE/" target="_blank">GitHub</a>
   </font>
 </p>
-<p style="text-align: center;"> 
+<p align="center" style="text-align: center;"> 
   <font size="-1">
     <a href="https://maziyark.github.io/">Home</a>
   </font>
 </p>
+
 

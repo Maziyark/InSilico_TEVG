@@ -5,6 +5,7 @@ title: In-silico Tissue Engineering
 #In Silico Tissue Engineering of Vascular Grafts: A coupled Agent-Based Finite Element Approach"
 
 markdown: GFM
+#theme: minima
 
 
 show_downloads: ["false"]
@@ -17,5 +18,5 @@ plugins:
     - jekyll-feed
 #
 
-ga_tracking: G-4K8SPGCJ4W
+google_analytics: [G-4K8SPGCJ4W]
 ga_tracking_anonymize_ip: false #google_analytics: 

@@ -18,5 +18,5 @@ plugins:
     - jekyll-feed
 #
 
-google_analytics: [G-4K8SPGCJ4W]
+google_analytics: G-4K8SPGCJ4W
 ga_tracking_anonymize_ip: false #google_analytics: 

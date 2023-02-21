@@ -17,18 +17,23 @@ Over the past two decades, the increase in prevalence of cardiovascular diseases
 ## Biaxial Loading (Axial = 8%, Circumferential = 2%)
 
 ### Evolution of Collagen Fibers 
-<img src="https://raw.githubusercontent.com/Maziyark/InSilico_TEVG/master/assets/BA8C2CF.gif" >
 
+<p align="center" style="text-align: center;">  
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/BA8C2CF_fast.gif?raw=true" alt="Fiber Orientations" class="center" style="width: 45vw; min-width: 400px;"> 
+</p> 
 
 
 ### Max. principal strain 
-<img src="https://raw.githubusercontent.com/Maziyark/InSilico_TEVG/master/assets/BA8C2StrainMP.gif">
 
+<p align="center" style="text-align: center;">  
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/BA8C2StrainMP_fast.gif?raw=true" alt="MaxPStress" class="center" style="width: 45vw; min-width: 400px;"> 
+</p> 
 
 ### Max. principal stress 
-<img src="https://raw.githubusercontent.com/Maziyark/InSilico_TEVG/master/assets/BA8C2StressMP.gif">
 
-
+<p align="center" style="text-align: center;">  
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/BA8C2StressMP_fast.gif?raw=true" alt="MaxPStress" class="center" style="width: 45vw; min-width: 400px;"> 
+</p> 
 
 <p align="center" style="text-align: center;"> 
   <font size="-1">

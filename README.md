@@ -1,3 +1,8 @@
+<p align="right" style="text-align: center;"> 
+  <font size="-1">
+    <a href="https://maziyark.github.io/">🏠Home🏠</a>
+  </font>
+</p>
 This page includes the supplementary information for the following manuscript:
 "In Silico Tissue Engineering: A coupled Agent-Based Finite Element Approach".
 The preprint is available [here](https://www.ncbi.nlm.nih.gov/pubmed/31392930) and 
@@ -39,7 +44,6 @@ Over the past two decades, the increase in prevalence of cardiovascular diseases
   <font size="-1">
     <a href="https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
     <a href="https://www.linkedin.com/in/maziyark/" target="_blank">LinkedIn</a> | 
-    <a href="https://twitter.com/Maziyar_Ke" target="_blank">Twitter</a> | 
     <a href="https://www.researchgate.net/profile/Maziyar_Keshavarzian" target="_blank">ResearchGate</a> |
     <a href="https://github.com/MZYRKE/" target="_blank">GitHub</a>
   </font>
